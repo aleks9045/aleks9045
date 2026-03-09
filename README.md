@@ -8,11 +8,10 @@
 ---
 
 ## About me
-- #### 🐍->☕ I used to write in Python, now using Java
-- #### ✍ Mainly wrote low-load web-apps with authorization
-- #### 🔧 Can design database and deploy apps by my own
-- #### 🧠 Almost always learning something new
-- #### 🏆 I won several hackatons (look at the pinned repos below)
+- ### 🐍->☕ I used to write in Python, now using Java
+- ### 🔧 Can design database and deploy apps by my own
+- ### 🧠 Almost always learning something new
+- ### 🏆 I won several hackatons (look at the pinned repos below)
 
 ---
 
